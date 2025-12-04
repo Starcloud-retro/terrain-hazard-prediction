@@ -60,12 +60,12 @@ F1 Score       : 100%
 
 <h3>🔶 Correlation Heatmap</h3>
 <p align="center">
-  <img src="./figures/heatmap.png" width="700">
+  <img src="terrain-hazard-prediction/figures/heatmap.png" width="700">
 </p>
 
 <h3>🔷 Feature Importance Plot</h3>
 <p align="center">
-  <img src="./figures/feature_importance.png" width="700">
+  <img src="terrain-hazard-prediction/figures/feature_importance.png" width="700">
 </p>
 
 <hr>
